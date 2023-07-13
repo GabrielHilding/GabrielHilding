@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Gabriel Hildingsson</h1>
 <h3>A passionate Flutter developer from Stockholm</h3>
 
-📫 Reach me at **gabriel@activout.se**
-
 📫 Reach me personally at **gabbe.hildingsson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
